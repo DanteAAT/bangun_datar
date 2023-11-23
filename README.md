@@ -22,4 +22,4 @@ samples, guidance on mobile development, and a full API reference.
 ![Screenshot 2023-11-23 151644](https://github.com/DanteAAT/bangun_datar/assets/115200282/b6b27ecd-01af-4c40-b08b-361ae8322c62)
 ![Screenshot 2023-11-23 151429](https://github.com/DanteAAT/bangun_datar/assets/115200282/09a59169-5429-4db6-860e-b21a95e2b1a0)
 ![Screenshot 2023-11-23 151726](https://github.com/DanteAAT/bangun_datar/assets/115200282/cff7d011-4705-4ec7-979a-5c66e064397e)
-![Screenshot 2023-11-23 151447](https://github.com/DanteAAT/bangun_datar/assets/115200282/5ad6b1b0-a514-49a4-aaca-e6d  e83f7362e)
+![Screenshot 2023-11-23 151447](https://github.com/DanteAAT/bangun_datar/assets/115200282/5ad6b1b0-a514-49a4-aaca-e6de83f7362e)
